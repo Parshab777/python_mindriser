@@ -16,3 +16,9 @@ git add . (add multiple files)
 
 // commit
 git commit -m "meaning full message"
+
+
+
+
+
+
