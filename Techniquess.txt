@@ -1,0 +1,11 @@
+shift alt down-arrow  - duplicate
+ctrl + / - Comment
+Within the ' ' if we want to type ' anything we use \ before 's.
+smoke
+window
+car
+pencil
+student
+batman
+safe
+wait
