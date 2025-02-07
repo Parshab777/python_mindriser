@@ -35,3 +35,10 @@ git checkout new_branch_name
 // merge
 git merge branches_name
 
+
+// remote repo to local repository
+git pull
+
+// local to remote repository
+git push (Branch that is already pushed in github)
+git push origin branch_name(New branch)
